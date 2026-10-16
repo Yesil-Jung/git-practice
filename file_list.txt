@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x 1 HONG 197121 0 Sep 28 16:35 asset/
+-rw-r--r-- 1 HONG 197121 0 Oct  5 02:31 file_list.txt
+drwxr-xr-x 1 HONG 197121 0 Sep 28 16:28 new_folder/
